@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class ACM_Hotel {
-    public static void ACM_Hotel(String args[]){
+    public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt();
 

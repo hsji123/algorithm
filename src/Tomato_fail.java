@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tomato {
+public class Tomato_fail {
     public static void main(String args[]){
         //실패한 이유는 DFS를 하는 과정에서 비효율적으로 이중배열을 사용함.
         // QUEUE를 사용했다면 훨씬 좋은 코드가 되었을 것.

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class HoneyComb {
-    public static void HoneyComb(String args[]){
+    public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         int x, n=1, m=1;
         x = sc.nextInt();
