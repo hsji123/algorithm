@@ -15,7 +15,7 @@ class Queue_box {
     }
 }
 
-public class Tomato_success_dfs {
+public class Tomato_success_bfs {
     static int qSize;
     static int count = 0;
 
@@ -53,7 +53,7 @@ public class Tomato_success_dfs {
 
         qSize = queue.size();
 
-        Tomato_success_dfs q = new Tomato_success_dfs();
+        Tomato_success_bfs q = new Tomato_success_bfs();
         day = q.bfs(queue, box, visit);
 
         System.out.println(n*m + " " + count + " " + qSize);
