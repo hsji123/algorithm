@@ -1,9 +1,10 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Kth_11004 {
     static int K = 0;
     static int N = 0;
     static int result = 0;
