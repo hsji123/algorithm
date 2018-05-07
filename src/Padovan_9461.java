@@ -16,9 +16,7 @@ public class Padovan_9461 {
             int n = Integer.parseInt(st.nextToken());
             long[] sequence = new long[101];
             System.out.println(padovan(sequence, n));
-
         }
-
     }
 
     static long padovan(long[] sequence, int n){
