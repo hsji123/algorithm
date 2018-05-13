@@ -1,62 +1,55 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.*;
-import java.util.concurrent.LinkedBlockingDeque;
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.StringTokenizer;
 
 
-public class Main {
+public class Queue_10845 {
 
     public static void main(String args[]) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
-        Deque<Integer> deque = new LinkedBlockingDeque<>();
+        Queue<Integer> queue = new LinkedList<Integer>();
 
         int n = Integer.parseInt(st.nextToken());
         for(int i=0; i<n; i++){
             st = new StringTokenizer(br.readLine(), " ");
             String operatorTmp = st.nextToken();
             int number=0;
-            if(operatorTmp.equals("push_front") || operatorTmp.equals("push_back")){
+            if(operatorTmp.equals("push")){
                 number = Integer.parseInt(st.nextToken());
             }
 
-            if(operatorTmp.equals("push_front")){
-                deque.offerFirst(number);
-            }else if(operatorTmp.equals("push_back")){
-                deque.offerLast(number);
-            }else if(operatorTmp.equals("pop_front")){
-                if(deque.isEmpty()){
+            if(operatorTmp.equals("push")){
+                queue.offer(number);
+            }else if(operatorTmp.equals("pop")){
+                if(queue.isEmpty()){
                     System.out.println(-1);
                 }else {
-                    System.out.println(deque.pollFirst());
-                }
-            }else if(operatorTmp.equals("pop_back")){
-                if(deque.isEmpty()){
-                    System.out.println(-1);
-                }else {
-                    System.out.println(deque.pollLast());
+                    System.out.println(queue.poll());
                 }
             }else if(operatorTmp.equals("size")){
-                System.out.println(deque.size());
+                System.out.println(queue.size());
             }else if(operatorTmp.equals("empty")){
-                if(deque.isEmpty()){
+                if(queue.isEmpty()){
                     System.out.println(1);
                 }else{
                     System.out.println(0);
                 }
             }else if(operatorTmp.equals("front")){
-                if(deque.isEmpty()){
+                if(queue.isEmpty()){
                     System.out.println(-1);
                 }else{
-                    System.out.println(deque.getFirst());
+                    System.out.println(((LinkedList<Integer>) queue).getFirst());
                 }
             }else if(operatorTmp.equals("back")){
-                if(deque.isEmpty()){
+                if(queue.isEmpty()){
                     System.out.println(-1);
                 }else{
-                    System.out.println(deque.getLast());
+                    System.out.println(((LinkedList<Integer>) queue).getLast());
                 }
             }
         }
