@@ -1,11 +1,10 @@
-import java.io.File;
 import java.io.IOException;
 import java.util.Deque;
 import java.util.LinkedList;
 import java.util.Scanner;
 
 
-public class Main {
+public class AC_5430 {
 
     public static void main(String args[]) throws IOException {
         //File file = new File("test.txt");
