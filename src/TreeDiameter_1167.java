@@ -1,10 +1,42 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
 import java.util.StringTokenizer;
 
 
-public class Main {
+class Tree{
+    int n;
+
+    ArrayList<Node> nodeList;
+    static class Node{
+        int n;
+        int value;
+        boolean check;
+
+        Node(int n, int value){
+            this.n = n;
+            this.value = value;
+        }
+
+        void setCheck(boolean check){
+            this.check = check;
+        }
+
+        boolean getCheck(){
+            return check;
+        }
+    }
+    Tree(int n){
+        this.n = n;
+        this.nodeList = new ArrayList<>();
+    }
+    void addNode(Node node){
+        this.nodeList.add(node);
+    }
+}
+
+public class TreeDiameter_1167 {
     static Tree[] trees;
     static int[] distance;
     static int max;
