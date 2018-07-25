@@ -2,51 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f750a2b-d2fe-4a40-aaa7-ff844f0e22d0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/success/hs_1865_Wormhole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/success/hs_1012_cabbage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/success/hs_1987_safearea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/hs_1767_connectedProcessor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/ACM_Hotel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/AC_5430.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/ApartmentNumbering_2667.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/ArrayDuplication_2740.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/BST_2957.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/BST_5639.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Bracket_2504.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/CalculationDateTime_1476.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/ContinuousSum_1912.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Deque_10866.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/GameDevelopment_1516.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/HoneyComb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Josephus_1158.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Jump_1890.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Kth_11004.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/LineUp_2252$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/LineUp_2252.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Main$Route.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Main$Node.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmProject/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Node_2957.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Node_5639.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Padovan_9461.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/PaperCut_1780.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/PermutationCycle_10451.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Pibonacci_1003.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/QuadTree_1992.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Queue_10845.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Queue_box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/RoboticCleaner_14503.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/ShortestPath_1753$Weight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/ShortestPath_1753.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/SpecificShortestPath_1504$Weight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/SpecificShortestPath_1504.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Stack_10828.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Stack_box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/StepUp_2579.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Tomato_fail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Tomato_success_bfs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Tree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/TreeDiameter_1167.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Virus_2606.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/drawStar_2448.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -57,13 +18,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="algorithmProject" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="77" column="21" lean-forward="true" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+            <state relative-caret-position="209">
+              <caret line="51" column="35" lean-forward="true" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,11 +35,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hs_1865_Wormhole.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hs_1992_QuadTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/success/hs_1992_QuadTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hs_1987_safearea.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/success/hs_1987_safearea.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-168">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hs_1012_cabbage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/success/hs_1012_cabbage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-16">
+              <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hs_1865_Wormhole.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/success/hs_1865_Wormhole.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            <state relative-caret-position="240">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hs_1767_connectedProcessor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/swea/hs_1767_connectedProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,44 +89,8 @@
       <file leaf-file-name="hs_11657_timeMachine.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/success/hs_11657_timeMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="85" column="13" lean-forward="true" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hs_1476_CalculationDateTime.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/success/hs_1476_CalculationDateTime.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hs_1504_SpecificShortestPath.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/success/hs_1504_SpecificShortestPath.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hs_1516_GameDevelopment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/success/hs_1516_GameDevelopment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hs_1753_ShortestPath.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/success/hs_1753_ShortestPath.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="1200">
+              <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -147,7 +117,7 @@
         <entry file="file://$PROJECT_DIR$/src/success/hs_1912_ContinuousSum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="26" column="48" lean-forward="true" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+              <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -163,13 +133,9 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>597501</find>
-      <find>94377</find>
       <find>178309</find>
       <find>390626</find>
       <find>562513</find>
-      <find>result</find>
-      <find>Sys</find>
       <find>cost</find>
       <find>bfs</find>
       <find>system</find>
@@ -193,6 +159,10 @@
       <find>edgeNum</find>
       <find>graph</find>
       <find>tmp</find>
+      <find>6</find>
+      <find>Sys</find>
+      <find>map</find>
+      <find>result</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -249,9 +219,12 @@
         <option value="$PROJECT_DIR$/src/Tomato_success_bfs.java" />
         <option value="$PROJECT_DIR$/src/hs_7576_Tomato_success_bfs.java" />
         <option value="$PROJECT_DIR$/src/success/hs_7576_Tomato_success_bfs.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/hs_1865_Wormhole.java" />
         <option value="$PROJECT_DIR$/src/success/hs_1865_Wormhole.java" />
+        <option value="$PROJECT_DIR$/src/swea/hs_1767_connectedProcessor.java" />
+        <option value="$PROJECT_DIR$/src/success/hs_1012_cabbage.java" />
+        <option value="$PROJECT_DIR$/src/success/hs_1987_safearea.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -274,6 +247,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -286,18 +261,29 @@
               <item name="algorithmProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithmProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="success" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="swea" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -306,6 +292,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="success" />
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -406,39 +393,41 @@
       <updated>1522732793472</updated>
       <workItem from="1522732800214" duration="95440000" />
       <workItem from="1525254695192" duration="129447000" />
-      <workItem from="1528357617418" duration="12968000" />
+      <workItem from="1528357617418" duration="15352000" />
+      <workItem from="1532323988858" duration="447000" />
+      <workItem from="1532325434662" duration="21186000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="237855000" />
+    <option name="totallyTimeSpent" value="261872000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="735" extended-state="6" />
+    <frame x="1" y="23" width="1280" height="735" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32980332" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49919224" weight="0.34169278" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50078124" side_tool="true" weight="0.26172465" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5023438" side_tool="true" weight="0.26172465" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49921876" visible="true" weight="0.26172465" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49765626" weight="0.2711599" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49919224" weight="0.31770045" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" weight="0.3291536" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24609375" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49892473" visible="true" weight="0.25444266" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.50107527" side_tool="true" weight="0.25444266" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39939487" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39811912" />
+      <window_info id="Favorites" order="2" sideWeight="0.50107527" side_tool="true" weight="0.25444266" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -450,15 +439,72 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/success/hs_1780_PaperCut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/success/hs_1890_Jump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/success/hs_1912_ContinuousSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="26" column="48" lean-forward="true" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/success/hs_1865_Wormhole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -525,9 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -535,9 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="21" column="74" lean-forward="true" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -545,10 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="930">
           <caret line="67" column="18" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#954#965#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -563,9 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -604,16 +637,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/success/hs_1992_QuadTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-257">
-          <caret line="21" column="74" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/success/hs_9461_Padovan.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="502">
@@ -625,9 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -677,9 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -687,9 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -697,10 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#959#970#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -714,13 +724,6 @@
     <entry file="file://$PROJECT_DIR$/src/success/hs_1158_Josephus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/success/hs_1167_TreeDiameter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
@@ -770,31 +773,75 @@
     <entry file="file://$PROJECT_DIR$/src/success/hs_1912_ContinuousSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="26" column="48" lean-forward="true" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/success/hs_11657_timeMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="85" column="13" lean-forward="true" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
+        <state relative-caret-position="1200">
+          <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/success/hs_1167_TreeDiameter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="77" column="21" lean-forward="true" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+        <state relative-caret-position="90">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/success/hs_1865_Wormhole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swea/hs_1767_connectedProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/success/hs_1865_Wormhole.java">
+    <entry file="file://$PROJECT_DIR$/src/success/hs_1992_QuadTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state relative-caret-position="15">
+          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/success/hs_1012_cabbage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/success/hs_1987_safearea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="51" column="35" lean-forward="true" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
