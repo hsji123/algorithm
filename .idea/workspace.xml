@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f750a2b-d2fe-4a40-aaa7-ff844f0e22d0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/success/hs_2468_SafeArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/success/hs_1987_safearea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/success/hs_1987_Alphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/hs_1206_view.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmProject/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/success/hs_1987_safearea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="77" column="5" lean-forward="true" selection-start-line="7" selection-end-line="77" selection-end-column="5" />
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,11 +33,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hs_2468_SafeArea.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hs_1206_view.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/swea/hs_1206_view.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hs_2468_SafeArea.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/success/hs_2468_SafeArea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="405">
+              <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -91,7 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Tomato_success_dfs.java" />
         <option value="$PROJECT_DIR$/src/Tomato_fail.java" />
         <option value="$PROJECT_DIR$/src/ACM_Hotel.java" />
         <option value="$PROJECT_DIR$/src/PaperCut_1780.java" />
@@ -139,9 +150,10 @@
         <option value="$PROJECT_DIR$/src/swea/hs_1767_connectedProcessor.java" />
         <option value="$PROJECT_DIR$/src/success/hs_1012_cabbage.java" />
         <option value="$PROJECT_DIR$/src/success/hs_1987_safearea.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/success/hs_1987_Alphabet.java" />
         <option value="$PROJECT_DIR$/src/success/hs_2468_SafeArea.java" />
+        <option value="$PROJECT_DIR$/src/swea/hs_1206_view.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -209,6 +221,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="swea" />
       <recent name="success" />
       <recent name="" />
     </key>
@@ -313,12 +326,12 @@
       <workItem from="1528357617418" duration="15352000" />
       <workItem from="1532323988858" duration="447000" />
       <workItem from="1532325434662" duration="21186000" />
-      <workItem from="1532502099045" duration="216000" />
+      <workItem from="1532502099045" duration="1982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="262088000" />
+    <option name="totallyTimeSpent" value="263854000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -335,13 +348,14 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49919224" weight="0.34169278" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5023438" side_tool="true" weight="0.26172465" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49765626" weight="0.2711599" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49765626" visible="true" weight="0.2711599" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49919224" weight="0.31661442" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" weight="0.3291536" />
       <window_info id="Capture Tool" order="2" />
@@ -360,7 +374,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49919224" weight="0.34169278" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -404,13 +417,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/success/hs_1780_PaperCut.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/success/hs_1890_Jump.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -759,20 +765,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/success/hs_2468_SafeArea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="77" column="5" lean-forward="true" selection-start-line="7" selection-end-line="77" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="405">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/success/hs_2468_SafeArea.java">
+    <entry file="file://$PROJECT_DIR$/src/swea/hs_1206_view.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="135">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
