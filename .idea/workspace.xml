@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f750a2b-d2fe-4a40-aaa7-ff844f0e22d0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/success/hs_11559_PuyoPuyo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmProject/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Main$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,10 +23,12 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="214">
+              <caret line="72" column="40" lean-forward="true" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1980#1981#0" expanded="true" />
+                <element signature="e#2027#2028#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,7 +72,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>178309</find>
       <find>390626</find>
       <find>562513</find>
       <find>cost</find>
@@ -97,9 +98,10 @@
       <find>graph</find>
       <find>tmp</find>
       <find>6</find>
-      <find>Sys</find>
       <find>map</find>
       <find>result</find>
+      <find>Sy</find>
+      <find>Sys</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -334,12 +336,12 @@
       <workItem from="1528357617418" duration="15352000" />
       <workItem from="1532323988858" duration="447000" />
       <workItem from="1532325434662" duration="21186000" />
-      <workItem from="1532502099045" duration="8337000" />
+      <workItem from="1532502099045" duration="17377000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="270209000" />
+    <option name="totallyTimeSpent" value="279249000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -352,6 +354,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="735" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
@@ -362,12 +365,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5023438" side_tool="true" weight="0.26172465" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49765626" visible="true" weight="0.2711599" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49765626" weight="0.2711599" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49919224" weight="0.31661442" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" weight="0.3291536" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49892473" visible="true" weight="0.2584814" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49892473" visible="true" weight="0.2584814" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" sideWeight="0.50107527" side_tool="true" weight="0.25444266" />
@@ -437,6 +440,8 @@
           <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1980#1981#0" expanded="true" />
+            <element signature="e#2027#2028#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -489,6 +494,8 @@
           <caret line="131" column="38" lean-forward="true" selection-start-line="131" selection-start-column="38" selection-end-line="131" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1980#1981#0" expanded="true" />
+            <element signature="e#2027#2028#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -784,10 +791,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="214">
+          <caret line="72" column="40" lean-forward="true" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1980#1981#0" expanded="true" />
+            <element signature="e#2027#2028#0" expanded="true" />
           </folding>
         </state>
       </provider>
