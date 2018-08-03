@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f750a2b-d2fe-4a40-aaa7-ff844f0e22d0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/algorithmProject/Main$Virus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithmProject/success/hs_14500_Tetromino$Tetromino.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithmProject/success/hs_14500_Tetromino.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithmProject/success/hs_14501_Resign.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/success/hs_14501_Resign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/success/hs_14502_Laboratory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Main$Tetromino.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmProject/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/hs_4013_SpecialMagnet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Main$Virus.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/swea/hs_14500_Tetromino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/success/hs_14500_Tetromino.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+            <state relative-caret-position="225">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,11 +31,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hs_14502_Laboratory.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hs_4013_SpecialMagnet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/swea/hs_4013_SpecialMagnet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hs_14502_Laboratory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/success/hs_14502_Laboratory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="226">
+              <caret line="33" column="45" lean-forward="true" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -71,7 +75,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>562513</find>
       <find>cost</find>
       <find>bfs</find>
       <find>system</find>
@@ -101,6 +104,7 @@
       <find>Sy</find>
       <find>Sys</find>
       <find>listFlag</find>
+      <find>j :</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -112,7 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/drawStar_2448.java" />
         <option value="$PROJECT_DIR$/src/Pibonacci_1003.java" />
         <option value="$PROJECT_DIR$/src/StepUp_2579.java" />
         <option value="$PROJECT_DIR$/src/Padovan_9461.java" />
@@ -162,6 +165,7 @@
         <option value="$PROJECT_DIR$/src/swea/hs_14501_Resign.java" />
         <option value="$PROJECT_DIR$/src/success/hs_14501_Resign.java" />
         <option value="$PROJECT_DIR$/src/success/hs_14502_Laboratory.java" />
+        <option value="$PROJECT_DIR$/src/swea/hs_4013_SpecialMagnet.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
@@ -230,8 +234,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="success" />
       <recent name="swea" />
+      <recent name="success" />
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -336,12 +340,12 @@
       <workItem from="1532323988858" duration="447000" />
       <workItem from="1532325434662" duration="21186000" />
       <workItem from="1532502099045" duration="17377000" />
-      <workItem from="1532949018805" duration="12403000" />
+      <workItem from="1532949018805" duration="20407000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="291652000" />
+    <option name="totallyTimeSpent" value="299656000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -427,13 +431,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/success/hs_1504_SpecificShortestPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/success/hs_2606_Virus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -779,20 +776,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/success/hs_14502_Laboratory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        <state relative-caret-position="226">
+          <caret line="33" column="45" lean-forward="true" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swea/hs_4013_SpecialMagnet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/success/hs_14502_Laboratory.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="225">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

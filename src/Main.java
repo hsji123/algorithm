@@ -5,18 +5,14 @@ import java.util.StringTokenizer;
 
 public class Main {
 
-    static int N, M;
-
 
     public static void main(String arg[]) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
-        N = Integer.parseInt(st.nextToken());
-        M = Integer.parseInt(st.nextToken());
+        int T = Integer.parseInt(st.nextToken());
+
 
     }
-
-
 
 }
