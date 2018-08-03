@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f750a2b-d2fe-4a40-aaa7-ff844f0e22d0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/swea/hs_4013_SpecialMagnet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Main$Virus.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/hs_4012_Cook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,11 +21,20 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hs_4012_Cook.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/swea/hs_4012_Cook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="115" column="5" selection-start-line="115" selection-start-column="5" selection-end-line="115" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -116,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Pibonacci_1003.java" />
         <option value="$PROJECT_DIR$/src/StepUp_2579.java" />
         <option value="$PROJECT_DIR$/src/Padovan_9461.java" />
         <option value="$PROJECT_DIR$/src/ContinuousSum_1912.java" />
@@ -166,6 +173,7 @@
         <option value="$PROJECT_DIR$/src/success/hs_14501_Resign.java" />
         <option value="$PROJECT_DIR$/src/success/hs_14502_Laboratory.java" />
         <option value="$PROJECT_DIR$/src/swea/hs_4013_SpecialMagnet.java" />
+        <option value="$PROJECT_DIR$/src/swea/hs_4012_Cook.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
@@ -340,12 +348,12 @@
       <workItem from="1532323988858" duration="447000" />
       <workItem from="1532325434662" duration="21186000" />
       <workItem from="1532502099045" duration="17377000" />
-      <workItem from="1532949018805" duration="20407000" />
+      <workItem from="1532949018805" duration="24815000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="299656000" />
+    <option name="totallyTimeSpent" value="304064000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -431,13 +439,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/success/hs_2606_Virus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/success/hs_1890_Jump.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -793,10 +794,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/swea/hs_4012_Cook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="115" column="5" selection-start-line="115" selection-start-column="5" selection-end-line="115" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
