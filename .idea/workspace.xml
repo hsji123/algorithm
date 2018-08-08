@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f750a2b-d2fe-4a40-aaa7-ff844f0e22d0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/swea/hs_4008_CalculateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/hs_1952_Swimming.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,6 +28,11 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hs_1952_Swimming.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/swea/hs_1952_Swimming.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="hs_4008_CalculateNumber.java" pinned="false" current-in-tab="false">
@@ -133,7 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Padovan_9461.java" />
         <option value="$PROJECT_DIR$/src/ContinuousSum_1912.java" />
         <option value="$PROJECT_DIR$/src/Stack_10828.java" />
         <option value="$PROJECT_DIR$/src/Queue_10845.java" />
@@ -183,6 +187,7 @@
         <option value="$PROJECT_DIR$/src/swea/hs_4013_SpecialMagnet.java" />
         <option value="$PROJECT_DIR$/src/swea/hs_4012_Cook.java" />
         <option value="$PROJECT_DIR$/src/swea/hs_4008_CalculateNumber.java" />
+        <option value="$PROJECT_DIR$/src/swea/hs_1952_Swimming.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
@@ -357,12 +362,12 @@
       <workItem from="1532323988858" duration="447000" />
       <workItem from="1532325434662" duration="21186000" />
       <workItem from="1532502099045" duration="17377000" />
-      <workItem from="1532949018805" duration="39193000" />
+      <workItem from="1532949018805" duration="42783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="318442000" />
+    <option name="totallyTimeSpent" value="322032000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -448,13 +453,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/success/hs_2667_ApartmentNumbering.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/success/hs_2252_LineUp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
@@ -809,6 +807,9 @@
           <caret line="69" column="23" lean-forward="true" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swea/hs_1952_Swimming.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
