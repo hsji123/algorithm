@@ -6,6 +6,7 @@ import java.util.StringTokenizer;
 public class Main {
 
     private static int N;
+    private static int[][] map;
 
     public static void main(String arg[]) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -13,7 +14,14 @@ public class Main {
 
         int T = Integer.parseInt(st.nextToken());
 
+        for(int i=1; i<=T; i++){
+            st = new StringTokenizer(br.readLine(), " ");
+            N = Integer.parseInt(st.nextToken());
+
+            //System.out.println("#"+i+" "+resultMax);
+        }
+
     }
 
-}
 
+}
