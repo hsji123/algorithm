@@ -1,14 +1,12 @@
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.StringTokenizer;
+import java.util.Scanner;
 
 public class Main {
 
     private static int N, M;
-    private static char[][] map;
+    private static int[][] map;
     private static int[][] mapCheck;
     private static Queue<Node> queue;
     private static int result;
@@ -28,31 +26,72 @@ public class Main {
     }
 
     public static void main(String arg[]) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+        Scanner sc = new Scanner(System.in);
 
-        N = Integer.parseInt(st.nextToken());
-        M = Integer.parseInt(st.nextToken());
-        map = new char[N][M];
+        N = sc.nextInt();
+        M = sc.nextInt();
+        map = new int[N][M];
         queue = new LinkedList<>();
+        result = 0;
 
         for(int i=0 ; i<N; i++){
-            st = new StringTokenizer(br.readLine(), " ");
-            String tmp = st.nextToken();
             for(int j=0; j<M; j++){
-                map[i][j] = tmp.charAt(j);
+                if (i == 0 || i == N - 1 || j == 0 || j == M - 1){
+                    map[i][j] = 0;
+                }map[i][j] = sc.nextInt();
             }
         }
 
+        int count = 1;
+
+        mapCheck = new int[N][M];
         for(int i=0; i<N; i++){
             for(int j=0; j<M; j++){
-                if(map[i][j]=='L'){
-                    mapCheck = new int[N][M];
-                    int tmpResult = bfs(new Node(j,i,0));
-                    if(tmpResult>result){
-                        result = tmpResult;
+                if(map[i][j]>0 && mapCheck[i][j]==0){
+                    bfs(new Node(j,i,count++));
+                }
+            }
+        }
+
+        if(count>2){
+            System.out.println(result);
+            return;
+        }
+
+        while(count<=2){
+            count = 1;
+            result++;
+            mapCheck = new int[N][M];
+            melting();
+            for(int i=0; i<N; i++){
+                for(int j=0; j<M; j++){
+                    if(map[i][j]>0 && mapCheck[i][j]==0){
+                        bfs(new Node(j,i,count++));
                     }
                 }
+            }
+
+            /*
+            for(int i=0 ;i<N; i++){
+                System.out.println();
+                for(int j=0; j<M; j++){
+                    System.out.print(map[i][j] + " ");
+                }System.out.print("    ");
+                for(int j=0; j<M; j++){
+                    System.out.print(mapCheck[i][j] + " ");
+                }
+            }System.out.println();
+            */
+
+            int sum = 0;
+            for(int i=0; i<N; i++){
+                for(int j=0; j<M; j++){
+                    sum+=map[i][j];
+                }
+            }
+            if(sum==0){
+                result=0;
+                break;
             }
         }
 
@@ -60,32 +99,54 @@ public class Main {
 
     }
 
-    static int bfs(Node firstNode){
+    static void melting(){
+        for(int i=0; i<N; i++){
+            for(int j=0; j<M; j++){
+                if(map[i][j]==0){
+                    for(int k=0; k<4; k++){
+                        int tmpX = j + dx[k];
+                        int tmpY = i + dy[k];
+                        if(tmpX>=0 && tmpX<M && tmpY>=0 && tmpY<N){
+                            if(map[tmpY][tmpX]>0){
+                                if(map[tmpY][tmpX]==1){
+                                    map[tmpY][tmpX]=-1;
+                                }else{
+                                    map[tmpY][tmpX]--;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        for(int i=0; i<N; i++){
+            for(int j=0; j<M; j++) {
+                if(map[i][j]==-1){
+                    map[i][j]=0;
+                }
+            }
+        }
+
+    }
+
+    static void bfs(Node firstNode){
         queue.offer(firstNode);
-        mapCheck[firstNode.y][firstNode.x] = 1;
+        mapCheck[firstNode.y][firstNode.x] = firstNode.count;
         Node node;
-        Node farNode = new Node(0, 0, 0);
-        int farCount=0;
         while(!queue.isEmpty()){
             node = queue.poll();
             //System.out.println(node.x + " " + node.y + " " + node.count);
-            if(node.count>farCount){
-                farNode = node;
-            }
-            //mapCheck[node.y][node.x] = 1;
 
             for(int i=0; i<4; i++){
                 int tmpX = node.x + dx[i];
                 int tmpY = node.y + dy[i];
 
-                if(tmpX>=0 && tmpX<M && tmpY>=0 && tmpY<N && map[tmpY][tmpX]=='L' && mapCheck[tmpY][tmpX]==0){
-                    queue.offer(new Node(tmpX, tmpY, node.count+1));
-                    mapCheck[tmpY][tmpX] = 1;
+                if(tmpX>=0 && tmpX<M && tmpY>=0 && tmpY<N && map[tmpY][tmpX]>0 && mapCheck[tmpY][tmpX]==0){
+                    queue.offer(new Node(tmpX, tmpY, node.count));
+                    mapCheck[tmpY][tmpX] = firstNode.count;
                 }
             }
         }
-
-        return farNode.count;
     }
 
 }
