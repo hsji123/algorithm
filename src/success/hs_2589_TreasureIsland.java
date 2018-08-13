@@ -1,3 +1,5 @@
+package success;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -5,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main {
+public class hs_2589_TreasureIsland {
 
     private static int N, M;
     private static char[][] map;

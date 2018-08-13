@@ -68,6 +68,10 @@ public class hs_2105_DesertCafe {
             }else if(downRight==0 && downLeft==0){
                 if(startX==x && startY==y){
                     if(result>resultMax){
+                        for(int i=0; i<101; i++){
+                            System.out.print(desertFalg[i] + " ");
+                        }
+                        System.out.println();
                         resultMax=result;
                     }
                 }
@@ -92,5 +96,4 @@ public class hs_2105_DesertCafe {
             }
         }
     }
-
 }
