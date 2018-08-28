@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f750a2b-d2fe-4a40-aaa7-ff844f0e22d0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/success/hs_1018_Chess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Main$Node.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/hs_1953_RunningMan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmProject/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,11 +20,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+            <state relative-caret-position="240">
+              <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hs_2105_DesertCafe.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/swea/hs_2105_DesertCafe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hs_1953_RunningMan.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/swea/hs_1953_RunningMan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="59" column="1" lean-forward="true" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -70,29 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hs_2146_MakeBridge.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/success/hs_2146_MakeBridge.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1117">
-              <caret line="144" column="45" lean-forward="true" selection-start-line="144" selection-start-column="45" selection-end-line="144" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="hs_14499_RollingDice.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/success/hs_14499_RollingDice.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="600">
               <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hs_1325_Hacking.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/success/hs_1325_Hacking.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="71" column="9" lean-forward="true" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -149,7 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/hs_11657_timeMachine.java" />
         <option value="$PROJECT_DIR$/src/hs_1158_Josephus.java" />
         <option value="$PROJECT_DIR$/src/BST_5639.java" />
         <option value="$PROJECT_DIR$/src/hs_5639BST.java" />
@@ -200,6 +200,7 @@
         <option value="$PROJECT_DIR$/src/success/hs_3190_Snake.java" />
         <option value="$PROJECT_DIR$/src/success/hs_1018_Chess.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/swea/hs_1953_RunningMan.java" />
       </list>
     </option>
   </component>
@@ -209,7 +210,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="735" />
@@ -268,10 +269,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="swea" />
       <recent name="success" />
       <recent name="" />
       <recent name="fail" />
-      <recent name="swea" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
@@ -395,12 +396,12 @@
       <workItem from="1532323988858" duration="447000" />
       <workItem from="1532325434662" duration="21186000" />
       <workItem from="1532502099045" duration="17377000" />
-      <workItem from="1532949018805" duration="167389000" />
+      <workItem from="1532949018805" duration="172814000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="446638000" />
+    <option name="totallyTimeSpent" value="452063000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -412,7 +413,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="735" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -486,13 +487,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/success/hs_2740_ArrayDuplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/success/hs_14503_RoboticCleaner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -691,13 +685,6 @@
     <entry file="file://$PROJECT_DIR$/src/swea/hs_1952_Swimming.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/swea/hs_2105_DesertCafe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/swea/hs_2383_LunchTime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-92" />
@@ -827,10 +814,24 @@
     <entry file="file://$PROJECT_DIR$/src/success/hs_1018_Chess.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/swea/hs_2105_DesertCafe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        <state relative-caret-position="240">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swea/hs_1953_RunningMan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="59" column="1" lean-forward="true" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
         </state>
       </provider>
     </entry>
