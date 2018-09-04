@@ -76,7 +76,6 @@ public class hs_2638_Cheese {
                         map[tmpY][tmpX]=-1;
                         queue.offer(new Node(tmpX, tmpY));
                     }
-
                 }
             }
         }
