@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f750a2b-d2fe-4a40-aaa7-ff844f0e22d0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/swea/hs_4014_AirstripBuild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Main$Node.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/success/hs_2580_Sdoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/success/hs_9517_ILoveCroatia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithmProject/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmProject/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,10 +24,20 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="150">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hs_9517_ILoveCroatia.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/success/hs_9517_ILoveCroatia.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="hs_2580_Sdoku.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/success/hs_2580_Sdoku.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="hs_4014_AirstripBuild.java" pinned="false" current-in-tab="false">
@@ -94,7 +106,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>stack</find>
       <find>dep</find>
       <find>Node</find>
       <find>node</find>
@@ -124,6 +135,7 @@
       <find>action</find>
       <find>result</find>
       <find>re</find>
+      <find>numberCoun</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -135,8 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/hs_5639BST.java" />
-        <option value="$PROJECT_DIR$/src/hs_5639_BST.java" />
         <option value="$PROJECT_DIR$/src/BST_2957.java" />
         <option value="$PROJECT_DIR$/src/hs_2957_BST.java" />
         <option value="$PROJECT_DIR$/src/hs_2504_Bracket.java" />
@@ -185,6 +195,8 @@
         <option value="$PROJECT_DIR$/src/success/hs_2638_Cheese.java" />
         <option value="$PROJECT_DIR$/src/swea/hs_2117_HomeSecurityService.java" />
         <option value="$PROJECT_DIR$/src/swea/hs_4014_AirstripBuild.java" />
+        <option value="$PROJECT_DIR$/src/success/hs_2580_Sdoku.java" />
+        <option value="$PROJECT_DIR$/src/success/hs_9517_ILoveCroatia.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
@@ -195,7 +207,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="562" />
     <option name="height" value="735" />
@@ -254,8 +266,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="swea" />
       <recent name="success" />
+      <recent name="swea" />
       <recent name="" />
       <recent name="fail" />
     </key>
@@ -387,12 +399,12 @@
       <workItem from="1532323988858" duration="447000" />
       <workItem from="1532325434662" duration="21186000" />
       <workItem from="1532502099045" duration="17377000" />
-      <workItem from="1532949018805" duration="192197000" />
+      <workItem from="1532949018805" duration="201440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="471446000" />
+    <option name="totallyTimeSpent" value="480689000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -404,7 +416,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="562" height="735" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="735" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -421,7 +433,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" weight="0.3291536" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49892473" weight="0.56153846" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49892473" visible="true" weight="0.23909532" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" sideWeight="0.50107527" side_tool="true" weight="0.25444266" />
@@ -478,20 +490,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/success/hs_1476_CalculationDateTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/success/hs_1504_SpecificShortestPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/success/hs_1516_GameDevelopment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -823,10 +821,16 @@
     <entry file="file://$PROJECT_DIR$/src/swea/hs_4014_AirstripBuild.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/success/hs_2580_Sdoku.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/success/hs_9517_ILoveCroatia.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
