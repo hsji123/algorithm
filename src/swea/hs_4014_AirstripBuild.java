@@ -42,7 +42,6 @@ public class hs_4014_AirstripBuild {
                     line[i] = map[i][j];
                 }
                 checking(0, line, j+20, false);
-
             }
 
             System.out.println("#" + t + " " + result);
