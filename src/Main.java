@@ -1,19 +1,36 @@
 import java.util.Scanner;
 
-public class Main {
+class Main {
 
-    private static int T;
+    static public void main(String[] args) {
 
-    public static void main(String arg[]) {
-        Scanner sc = new Scanner(System.in);
+        Solution solution = new Solution();
 
-        T = sc.nextInt();
+        solution.solution(new String[]{});
+        //System.out.println(err);
+    }
 
-        for(int t = 1; t<=T; t++){
+    static class Solution {
 
+        static int T, N, W, H;
+
+        static public void solution(String[] args) {
+            Scanner sc = new Scanner(System.in);
+
+            T = sc.nextInt();
+
+            for(int t=1; t<=T; t++){
+
+
+
+            }
 
 
         }
+
+
     }
 
+
 }
+
