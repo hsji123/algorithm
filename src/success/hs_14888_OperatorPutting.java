@@ -1,6 +1,8 @@
+package success;
+
 import java.util.Scanner;
 
-public class Main {
+public class hs_14888_OperatorPutting {
 
     static int resultMax;
     static int resultMin;
@@ -78,5 +80,7 @@ public class Main {
                 operatorList[i]++;
             }
         }
+
     }
+
 }
